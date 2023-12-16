@@ -9,6 +9,9 @@
 
 <div align="center">
   <img src= https://github-readme-stats-ten-wine.vercel.app/api?username=francesctr4&count_private=true&theme=tokyonight&show_icons=true>
+</div>
+
+<div align="center">
   <img src= https://github-readme-streak-stats.herokuapp.com/?user=francesctr4&theme=dark&hide_border=false>
 </div>
 
