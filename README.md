@@ -1,5 +1,5 @@
 <!-- Header Section -->
-# Francesc Teruel  
+# Francesc Teruel Rodríguez
 **🎮 Software Engineer | Game Developer 🚀**  
 *Crafting immersive experiences through code and creativity*  
 
