@@ -32,8 +32,13 @@ Passionate about software engineering with a specialisation in game development,
 
 <!-- Projects Section -->
 ### **🚀 Featured Projects**  
-🔗 [**Project 1**](link): Short description  
-🔗 [**Project 2**](link): Brief highlight  
+🔗 [**Nous Engine**](https://github.com/francesctr4/Nous-Engine): a Multithreaded Vulkan Game Engine developed for my bachelor's thesis.
+
+🔗 [**Deferred PBR Renderer**](https://github.com/francesctr4/AGP-Deferred_PBR_SSAO): A deferred rendering implementation featuring Physically Based Rendering and Image-Based Lighting in C++ using OpenGL.
+
+🔗 [**Alien Extraction**](https://github.com/Clapcom-Studios/Alien-Extraction): a 3D diablo-like extraction game developed by a group of 35 students using Ymir Engine.
+
+🔗 [**Ymir Engine**](https://github.com/francesctr4/Ymir-Engine): a 3D game engine developed from scratch in C++ using SDL, OpenGL and several other third party libraries.
 
 ---
 
