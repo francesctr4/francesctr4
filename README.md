@@ -1,5 +1,5 @@
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1643516353/23909/meow_googly_party.gif?1643516353" width="30"/> Francesc Teruel
+#  Francesc Teruel
 *Software Engineer - Game Developer*
 <br /> 
 
