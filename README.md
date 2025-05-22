@@ -1,22 +1,18 @@
 <!-- Header Section -->
 # Francesc Teruel Rodríguez
-**🎮 Software Engineer | Game Developer 🚀**  
-*Crafting immersive experiences through code and creativity*  
+### **🎮 Software Engineer | Game Developer 🚀**  
 
 ---
 
 <!-- About Me Section -->
 ### **👨💻 About Me**  
-Passionate game developer with expertise in **C++, C#, and Unity/Unreal Engine**. Currently building [brief project mention]. Always exploring new ways to merge technical precision with artistic expression.  
+Passionate about software engineering with a specialisation in game development, including game engine architecture, graphics programming and performance optimization.
 
-🔭 **Working on**: [Project name/short description]  
-🌱 **Learning**: [Current learning focus]  
-💬 **Ask me about**: Game mechanics, optimization tricks, or collaborative workflows!  
-
+#### 🔭 **Currently working on**: _Bachelor's Thesis - Nous Engine: a Multithreaded Vulkan Game Engine_
 ---
 
 <!-- Skills Section -->
-### **🛠️ Languages & Tools**  
+### **🛠️ Tech Stack**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cs,cpp,unity,unreal,placeholder,windows,visualstudio,github&perline=5" />
 </p>
