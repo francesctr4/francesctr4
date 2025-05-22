@@ -1,83 +1,64 @@
-<!--Header Name-->
-#  Francesc Teruel
-*Software Engineer - Game Developer*
-<br /> 
+<!-- Header Section -->
+# Francesc Teruel  
+**🎮 Software Engineer | Game Developer 🚀**  
+*Crafting immersive experiences through code and creativity*  
 
-<!--Start Intro-->  
-<p align="left">Work In Progress</p>
-- Reworking this page :)) WIP
-<!--End Intro-->
+---
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<!-- About Me Section -->
+### **👨💻 About Me**  
+Passionate game developer with expertise in **C++, C#, and Unity/Unreal Engine**. Currently building [brief project mention]. Always exploring new ways to merge technical precision with artistic expression.  
+
+🔭 **Working on**: [Project name/short description]  
+🌱 **Learning**: [Current learning focus]  
+💬 **Ask me about**: Game mechanics, optimization tricks, or collaborative workflows!  
+
+---
+
+<!-- Skills Section -->
+### **🛠️ Languages & Tools**  
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=c,cs,cpp,unity,unreal,placeholder,windows,visualstudio,github&perline=5"  />
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,unity,unreal,placeholder,windows,visualstudio,github&perline=5" />
 </p>
-<br />
 
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+---
+
+<!-- Stats Section -->
+### **📈 GitHub Stats**  
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=francesctr4&theme=dark&count_private=true&show_icons=true&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francesctr4&theme=dark&layout=compact&hide_border=true" />
+  <img height="165em" src="https://streak-stats.demolab.com?user=francesctr4&theme=dark&hide_border=true" />
+  <img height="165em" src="https://github-contributor-stats.vercel.app/api?username=francesctr4&limit=3&theme=dark&count_private=true&show_owner=true&combine_all_yearly_contributions=true&hide_border=true" />
+</div>
+
+---
+
+<!-- Projects Section -->
+### **🚀 Featured Projects**  
+🔗 [**Project 1**](link): Short description  
+🔗 [**Project 2**](link): Brief highlight  
+
+---
+
+<!-- Contributions Graph -->
+### **📊 Contribution Graph**  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=francesctr4&theme=react-dark&bg_color=011627&hide_border=true&area=true" />
+</div>
+
+---
+
+<!-- Contact Section -->
+### **🌐 Connect With Me**  
 <p align="center">
-  <a>
-    <img src="https://github-profile-trophy.vercel.app/?username=francesctr4&include_all_commits=true&theme=dark&count_private=true&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+  <a href="https://www.linkedin.com/in/francesc-teruel-rodriguez/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:francesc.tr03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://francesctr4.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
-<br />
-
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <p align="center">
-        <a href="https://github.com/francesctr4">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=francesctr4&theme=dark&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <p align="center">
-        <a href="https://github.com/francesctr4">
-          <img align="center" src="https://streak-stats.demolab.com?user=francesctr4&theme=dark&include_all_commits=true&count_private=true" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <p align="center">
-        <a href="https://github.com/francesctr4">
-          <img align="center" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francesctr4&hide_progress=false&theme=dark&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <p align="center">
-        <a href="https://github.com/francesctr4">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=francesctr4&limit=3&theme=dark&count_private=true&include_all_commits=true&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=francesctr4&theme=dark&include_all_commits=true&count_private=true&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
-</div>
-
-<!--Contact Section--> 
-
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
- <a href="https://www.linkedin.com/in/francesc-teruel-rodriguez/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-  
-<a href="mailto:francesc.tr03@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=sabatemiranda@gmail.com mail style="margin-bottom: 5px;" />
-</a>
-
-</div>
